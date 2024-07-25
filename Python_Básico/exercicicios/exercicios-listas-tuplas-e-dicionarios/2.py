@@ -23,8 +23,8 @@ for aluno in range(1, 6): # Loop para iterar sobre os 5 alunos
     notas_aluno = []  # Lista para armazenar as notas de um único aluno, conforme o user vá adicionando
 
     for nota in range(1, 5):  # Loop para iterar sobre as 4 notas de cada aluno
-        nota_atual = float(input(f"Digite a nota {nota} do aluno {aluno}: "))
-        notas_aluno.append(nota_atual)
+        nota_atual = (input(f"Digite a nota {nota} do aluno {aluno}: "))
+        notas_aluno.append(float(nota_atual))
 
     # Calcula a média das notas do aluno
     media = sum(notas_aluno) / 4
