@@ -15,4 +15,23 @@
     
 ## Pacotes
 - coleção de modulos que foi disponibilizado de forma pub (lib)
-- 
+- Pip
+
+
+## Escopos de variaveis
+- ![img_4.png](img_4.png)
+
+## classes e objetos
+- ![img_5.png](img_5.png)
+- ![img_6.png](img_6.png)
+- ![img_7.png](img_7.png)
+- ![img_8.png](img_8.png)
+- ![img_9.png](img_9.png)
+
+ ## Diferença de função para método:
+    - Função: é algo que faz algo
+     - Método: é associado diretamente a uma classe e ele tem que atuar sobre um objeto
+     - O primeiro parametro de um método é sempre o self (o self representa o objeto que eu estou atuando)
+
+- Um pouco mais sobre o self: 
+  - ![img_10.png](img_10.png)
