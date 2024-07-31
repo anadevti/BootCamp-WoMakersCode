@@ -1,7 +1,7 @@
 # BootCamp-WoMakersCode 🦋
 
 
-Este repositório foi criado para o BootCamp WoMakersCode, um programa de capacitação para mulheres na área de tecnologia. Aqui, você encontrará materiais de estudo, exemplos de código, exercícios e recursos adicionais para me auxiliar no aprendizado de diversas disciplinas de tecnologia.
+Este repositório foi criado para o BootCamp WoMakersCode Back-end Python, um programa de capacitação para mulheres na área de tecnologia. Aqui, você encontrará materiais de estudo, exemplos de código, exercícios e recursos adicionais para me auxiliar no aprendizado de diversas disciplinas de tecnologia.
 
 ## Conteúdo
 
