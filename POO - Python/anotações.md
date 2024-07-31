@@ -35,3 +35,13 @@
 
 - Um pouco mais sobre o self: 
   - ![img_10.png](img_10.png)
+
+# Modelagem de um sistema orientado a objetos
+- ![img_11.png](img_11.png)
+- ![img_12.png](img_12.png)
+  - Modelagm é o processo de identificar os atores, os dados necessarios e o tipo de interação que está ocorrendo
+  para criar um sistema é necessario conhecer suas regras de negocio.
+
+- Exemplo:
+  - ![img_13.png](img_13.png)
+  - ![img_14.png](img_14.png)
