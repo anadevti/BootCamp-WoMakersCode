@@ -45,3 +45,7 @@
 - Exemplo:
   - ![img_13.png](img_13.png)
   - ![img_14.png](img_14.png)
+  - Modelagem Final:
+    - ![img_19.png](img_19.png)
+    - ![img_17.png](img_17.png)
+    
