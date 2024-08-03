@@ -49,3 +49,11 @@
     - ![img_19.png](img_19.png)
     - ![img_17.png](img_17.png)
     
+# Encapsulamento
+ - encapsulamento é o ato de proteger os atributos de uma classe, ou seja, não permitir que eles sejam acessados diretamente de fora da classe
+ - ![img_20.png](img_20.png)
+
+# Propriedades
+ - nos dão acesso a um atributo de uma classe, mas com a possibilidade de definir regras para o acesso (_, __)
+ - ![img_21.png](img_21.png)
+ - 
