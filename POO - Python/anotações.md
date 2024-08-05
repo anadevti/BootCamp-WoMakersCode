@@ -56,4 +56,11 @@
 # Propriedades
  - nos dão acesso a um atributo de uma classe, mas com a possibilidade de definir regras para o acesso (_, __)
  - ![img_21.png](img_21.png)
- - 
+
+
+# Herança e MIxins
+- Herança é um conceito comum em todas as linguagens que possuem POO
+- com a herança, uma classe pode herdar os métodos e atributos de outra classe
+- ![img_22.png](img_22.png)
+- ![img_23.png](img_23.png)
+- 
