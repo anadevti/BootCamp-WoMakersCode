@@ -63,4 +63,26 @@
 - com a herança, uma classe pode herdar os métodos e atributos de outra classe
 - ![img_22.png](img_22.png)
 - ![img_23.png](img_23.png)
-- 
+- Herança multipla (mixins): 
+  - uma classe pode herdar de multiplas classes
+  - ![img_24.png](img_24.png)
+
+# classes abstratas
+- é considerada uma classe modelo para criar outras classes
+  - possuem a declaração mas não tem a implementação
+  - não tem como instanciar uma classe abstrata, conseguimos instanciar
+  a classe filha, mas não a base.
+  - ![img_25.png](img_25.png)
+
+# duck typing
+- é um estilo de programação que não se importa com a classe do objeto, mas sim com os métodos que o objeto possui
+- o python é dinamico, então ele não se importa com o tipo do objeto, mas sim com o que ele faz
+
+# erros e exceções
+- tipos de erros:
+  - erros de sintaxe
+  - erros de exceção:
+    - acontecem durante a execução do programa, linha a linha
+    - try e except
+## Lidando com erros e exceções
+- O primeiro passo é debugar o código, podemos utilizar o print para ver onde está o erro (não recomendado)
